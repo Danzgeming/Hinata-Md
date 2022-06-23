@@ -1,13 +1,13 @@
 {
-  "wait": "_Wait a minute, data is being processed!_",
+  "wait": "_Mohon Tunggu Beberapa Detik, Data Sedang Di Proses!_",
   "error": {
     "Iv": "Link yang kamu berikan tidak valid",
     "api": "Maaf terjadi kesalahan"
   },
-  "OnlyGrup": "Perintah ini hanya bisa digunakan di grup",
-  "OnlyPM": "Perintah ini hanya bisa digunakan di private message",
-  "GrupAdmin": "Perintah ini hanya bisa digunakan oleh Admin Grup",
-  "BotAdmin": "Bot Harus menjadi admin",
-  "OnlyOwner": "Perintah ini hanya dapat digunakan oleh owner bot",
-  "OnlyPrem": "Perintah ini khusus member premium"
+  "OnlyGrup": "Mohon Maaf, Commands Ini Hanya Bisa Digunakan Di Group",
+  "OnlyPM": "Mohon Maaf, Commands Ini Hanya Bisa Digunakan Di Private Message",
+  "GrupAdmin": "Mohon Maaf, Commands Ini Hanya Bisa Digunakan Jika Kamu Adalah Admin",
+  "BotAdmin": "Mohon Maaf, Jika Ingin Menggunakan Fitur Ini Bot Harus Dijadikan Admin Terdahulu",
+  "OnlyOwner": "Mohon Maaf, Kamu Tidak Dapat Menggunakan Commands Ini, Karena Kamu Bukan Owner",
+  "OnlyPrem": "Mohon Maaf, Untuk Menggunakan Commands Ini Harus Menjadi Member Premium"
 }
